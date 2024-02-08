@@ -10,3 +10,29 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+body {
+    text-align: center;
+    margin:0 auto;
+    padding-top: 10px;
+}
+.traffic-light {
+    background: black;
+    padding: 10px;
+    display: inline-block;
+    margin: auto;
+    border-radius: 20px;
+}
+
+.light {
+    width: 75px;
+    height: 75px;
+    margin: 5px;
+}
+.selected {
+    box-shadow: 5px 5px 10px  lightyellow;
+}
+.stroke {
+    width: 10px;
+    height: 60px;
+    margin: 0 auto;
+}
