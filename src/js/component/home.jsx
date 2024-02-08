@@ -138,7 +138,7 @@ const Home = () => {
 			</div>
 
 			{/* BONUS 1: Crea un botón que, al hacer clic en él, alterna el color seleccionado del semáforo entre rojo, verde y amarillo. */}
-			<div><button className="btn btn-primary mt-5" onClick={selectedTrafficLight}>Selected</button></div>
+			<div><button className="btn btn-primary mt-5" onClick={selectedTrafficLight}>Selected light</button></div>
 
 			{/* BONUS 2: Tener un botón que al hacer clic en él anuncie un color extra "púrpura" al semáforo. */}
 			<div><button className="btn btn-primary mt-1" onClick={showPurpleLight}>Show purple</button></div>
