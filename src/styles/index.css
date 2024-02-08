@@ -29,7 +29,7 @@ body {
     margin: 5px;
 }
 .selected {
-    box-shadow: 5px 5px 10px  lightyellow;
+    box-shadow: 5px 5px 20px  lightyellow;
 }
 .stroke {
     width: 10px;
